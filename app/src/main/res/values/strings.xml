@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Викторина</string>
+    //Main Menu
+    <string name="Choose_Theme">Выберите Тематику</string>
+    <string name="Space_Theme">Космос</string>
+    <string name="Water_Theme">Океан</string>
+    <string name="Animals_Theme">Животные</string>
+    <string name="Plants_Theme">Растительность</string>
+    <string name="Programming_Theme">Программирование</string>
+    <string name="Anathomy_Theme">Анатомия</string>
+
+    <string name="Win">Вы победили!</string>
+    <string name="Return_To_MainMenu">Вернуться в главное меню</string>
+    <string name="Back">Назад</string>
+    <string name="Restart">Начать заново</string>
+
+    //Main
+    <string name="Button_true_ru">Да</string>
+    <string name="Button_false_ru">Нет</string>
+    <string name="Right">Верно</string>
+    <string name="Wrong">Неверно</string>
+    <string name="NextQuestion_Button_ru">Следующий вопрос</string>
+    <string name="BackQuestion_Button_ru">Предыдущий вопрос</string>
+    <string name="Attempts_ru">Попытки:</string>
+    <string name="Restart_ru">Вы проиграли</string>
+    //Choose language layer
+    <string name="ChooseLangText">Choose Language</string>
+    <string name="Button_ruLang">Русский</string>
+    <string name="Button_enLang">English</string>
+    //Questions on russian
+    <string name="QuestionNum_en">Question number </string>
+    <string name="QuestionNum_ru">Вопрос</string>
+
+
+    //Space_Theme
+    //Question_Space_1
+    <string name="Question_Space_1_ru">Сколько планет в нашей Солнечной системе?</string>
+    <string name="Question_Space_1_answer1_ru">8</string>
+    <string name="Question_Space_1_answer2_ru">9</string>
+    <string name="Question_Space_1_answer3_ru">7</string>
+    <string name="Question_Space_1_answer4_ru">8.5</string>
+    //Question_Space_2
+    <string name="Question_Space_2_ru">Какая 6 по счету планета от Солнца?</string>
+    <string name="Question_Space_2_answer1_ru">Юпитер</string>
+    <string name="Question_Space_2_answer2_ru">Сатурн</string>
+    <string name="Question_Space_2_answer3_ru">Уран</string>
+    <string name="Question_Space_2_answer4_ru">Плутон</string>
+    //Question_Space_3
+    <string name="Question_Space_3_ru">Как называется наша Галактика?</string>
+    <string name="Question_Space_3_answer1_ru">Темный путь</string>
+    <string name="Question_Space_3_answer2_ru">Светлый путь</string>
+    <string name="Question_Space_3_answer3_ru">Афро-американский путь</string>
+    <string name="Question_Space_3_answer4_ru">Млечный путь</string>
+    //Question_Space_4
+    <string name="Question_Space_4_ru">Какой диаметр планеты Земля?</string>
+    <string name="Question_Space_4_answer1_ru">12742 км</string>
+    <string name="Question_Space_4_answer2_ru">13126 км</string>
+    <string name="Question_Space_4_answer3_ru">10123 км</string>
+    <string name="Question_Space_4_answer4_ru">14666 км</string>
+    //Question_Space_5
+    <string name="Question_Space_5_ru">Какая самая большая Звезда?</string>
+    <string name="Question_Space_5_answer1_ru">VY Большого Пса</string>
+    <string name="Question_Space_5_answer2_ru">Сириус</string>
+    <string name="Question_Space_5_answer3_ru">VY Цефея А</string>
+    <string name="Question_Space_5_answer4_ru">Солнце</string>
+
+
+    //Ocean_Theme
+    //Question_Ocean_1
+    <string name="Question_Ocean_1_ru">Сколько % поверхности \n Земли заниает вода?</string>
+    <string name="Question_Ocean_1_answer1_ru">73,5 %</string>
+    <string name="Question_Ocean_1_answer2_ru">66,6 %</string>
+    <string name="Question_Ocean_1_answer3_ru">70,8 %</string>
+    <string name="Question_Ocean_1_answer4_ru">69 %</string>
+    //Question_Ocean_2
+    <string name="Question_Ocean_2_ru">Какова глубина \n Марианской впадины?</string>
+    <string name="Question_Ocean_2_answer1_ru">11000 м</string>
+    <string name="Question_Ocean_2_answer2_ru">12000 м</string>
+    <string name="Question_Ocean_2_answer3_ru">10000 м</string>
+    <string name="Question_Ocean_2_answer4_ru">12500 м</string>
+    //Question_Ocean_3
+    <string name="Question_Ocean_3_ru">Какой Океан самый большой?</string>
+    <string name="Question_Ocean_3_answer1_ru">Индийский</string>
+    <string name="Question_Ocean_3_answer2_ru">Тихий</string>
+    <string name="Question_Ocean_3_answer3_ru">Атлантический</string>
+    <string name="Question_Ocean_3_answer4_ru">Северно-Ледовитый</string>
+    //Question_Ocean_4
+    <string name="Question_Ocean_4_ru">В каком Океане находится Большой Барьерный Риф?</string>
+    <string name="Question_Ocean_4_answer1_ru">Тихий</string>
+    <string name="Question_Ocean_4_answer2_ru">Атлантический</string>
+    <string name="Question_Ocean_4_answer3_ru">Северно-Ледовитый</string>
+    <string name="Question_Ocean_4_answer4_ru">Индийский</string>
+    //Question_Ocean_5
+    <string name="Question_Ocean_5_ru">Какой Океан в свое время \n омывал половину \n суперконтинента Пангея?</string>
+    <string name="Question_Ocean_5_answer1_ru">Япетус</string>
+    <string name="Question_Ocean_5_answer2_ru">Тетис</string>
+    <string name="Question_Ocean_5_answer3_ru">Панталасса</string>
+    <string name="Question_Ocean_5_answer4_ru">Палео-Тетис</string>
+
+
+    //Animals_Theme
+    //Question_Animals_1
+    <string name="Question_Animals_1_ru">Что из этого списка не является \n классами животных?</string>
+    <string name="Question_Animals_1_answer1_ru">Насекомые</string>
+    <string name="Question_Animals_1_answer2_ru">Птицы</string>
+    <string name="Question_Animals_1_answer3_ru">Рыбы</string>
+    <string name="Question_Animals_1_answer4_ru">Амфибии</string>
+    //Question_Animals_2
+    <string name="Question_Animals_2_ru">Что из этого не является \n систематекой животных?</string>
+    <string name="Question_Animals_2_answer1_ru">Царство</string>
+    <string name="Question_Animals_2_answer2_ru">Отряд</string>
+    <string name="Question_Animals_2_answer3_ru">Тип</string>
+    <string name="Question_Animals_2_answer4_ru">Порядок</string>
+    //Question_Animals_3
+    <string name="Question_Animals_3_ru">От чего вымерли Динозавры?</string>
+    <string name="Question_Animals_3_answer1_ru">От недо-размножения</string>
+    <string name="Question_Animals_3_answer2_ru">От падения Астероида</string>
+    <string name="Question_Animals_3_answer3_ru">От нехватки пищи</string>
+    <string name="Question_Animals_3_answer4_ru">От канибализма</string>
+    //Question_Animals_4
+    <string name="Question_Animals_4_ru">Киви - кто это?</string>
+    <string name="Question_Animals_4_answer1_ru">Амфибия</string>
+    <string name="Question_Animals_4_answer2_ru">Рептилия</string>
+    <string name="Question_Animals_4_answer3_ru">Овощ</string>
+    <string name="Question_Animals_4_answer4_ru">Птица</string>
+    //Question_Animals_5
+    <string name="Question_Animals_5_ru">Что из этого не относится к \n Биологичесим видам человека?</string>
+    <string name="Question_Animals_5_answer1_ru">Человек рудольфский</string>
+    <string name="Question_Animals_5_answer2_ru">Человек-кривоходящий</string>
+    <string name="Question_Animals_5_answer3_ru">Человек-предшественник</string>
+    <string name="Question_Animals_5_answer4_ru">Человек из Чепрано</string>
+
+    //Plants_Theme
+    //Question_Plants_1
+    <string name="Question_Plants_1_ru">Что из этого не является \n систематекой растений?</string>
+    <string name="Question_Plants_1_answer1_ru">Отряд</string>
+    <string name="Question_Plants_1_answer2_ru">Порядок</string>
+    <string name="Question_Plants_1_answer3_ru">Царство</string>
+    <string name="Question_Plants_1_answer4_ru">Род</string>
+    //Question_Plants_2
+    <string name="Question_Plants_2_ru">Из какого дерева делают спички?</string>
+    <string name="Question_Plants_2_answer1_ru">Ель</string>
+    <string name="Question_Plants_2_answer2_ru">Осина</string>
+    <string name="Question_Plants_2_answer3_ru">Дуб</string>
+    <string name="Question_Plants_2_answer4_ru">Берёза</string>
+    //Question_Plants_3
+    <string name="Question_Plants_3_ru">Какой цветок назван в честь \n Петербургского профессора?</string>
+    <string name="Question_Plants_3_answer1_ru">Роза</string>
+    <string name="Question_Plants_3_answer2_ru">Тополь</string>
+    <string name="Question_Plants_3_answer3_ru">Архидея</string>
+    <string name="Question_Plants_3_answer4_ru">Георгин</string>
+    //Question_Plants_4
+    <string name="Question_Plants_4_ru">Что из этого не записано в \n Красную Книгу Беларуси?</string>
+    <string name="Question_Plants_4_answer1_ru">Кувшинка Белая</string>
+    <string name="Question_Plants_4_answer2_ru">Прострел луговой</string>
+    <string name="Question_Plants_4_answer3_ru">Тимофеевка луговая</string>
+    <string name="Question_Plants_4_answer4_ru">Арника горная</string>
+    //Question_Plants_5
+    <string name="Question_Plants_5_ru">Самый долговечный кустарник?</string>
+    <string name="Question_Plants_5_answer1_ru">Можжевельник</string>
+    <string name="Question_Plants_5_answer2_ru">Олеандр</string>
+    <string name="Question_Plants_5_answer3_ru">Гибискус</string>
+    <string name="Question_Plants_5_answer4_ru">Арония черноплодая</string>
+
+
+    //Programming_Theme
+    //Question_Programming_1
+    <string name="Question_Programming_1_ru">Что из этого не является ЯП?</string>
+    <string name="Question_Programming_1_answer1_ru">R</string>
+    <string name="Question_Programming_1_answer2_ru">C</string>
+    <string name="Question_Programming_1_answer3_ru">Basic</string>
+    <string name="Question_Programming_1_answer4_ru">A</string>
+    //Question_Programming_2
+    <string name="Question_Programming_2_ru">Самый первый ЯП?</string>
+    <string name="Question_Programming_2_answer1_ru">Java</string>
+    <string name="Question_Programming_2_answer2_ru">Fortran</string>
+    <string name="Question_Programming_2_answer3_ru">Rotain</string>
+    <string name="Question_Programming_2_answer4_ru">Assembler</string>
+    //Question_Programming_3
+    <string name="Question_Programming_3_ru">Какой ЯП самый популярный?</string>
+    <string name="Question_Programming_3_answer1_ru">Python</string>
+    <string name="Question_Programming_3_answer2_ru">Arduino</string>
+    <string name="Question_Programming_3_answer3_ru">HTML</string>
+    <string name="Question_Programming_3_answer4_ru">JS</string>
+    //Question_Programming_4
+    <string name="Question_Programming_4_ru">Какой код у серверных ошибок?</string>
+    <string name="Question_Programming_4_answer1_ru">200-299</string>
+    <string name="Question_Programming_4_answer2_ru">500-599</string>
+    <string name="Question_Programming_4_answer3_ru">400-499</string>
+    <string name="Question_Programming_4_answer4_ru">100-199</string>
+    //Question_Programming_5
+    <string name="Question_Programming_5_ru">Какой атрибут в HTML 5 делает \n текст курсивом?</string>
+    <string name="Question_Programming_5_answer1_ru">br</string>
+    <string name="Question_Programming_5_answer2_ru">strong</string>
+    <string name="Question_Programming_5_answer3_ru">em</string>
+    <string name="Question_Programming_5_answer4_ru">hr</string>
+
+
+    //Anathomy_Theme
+    //Question_Anathomy_1
+    <string name="Question_Anathomy_1_ru"></string>
+    <string name="Question_Anathomy_1_answer1_ru"></string>
+    <string name="Question_Anathomy_1_answer2_ru"></string>
+    <string name="Question_Anathomy_1_answer3_ru"></string>
+    <string name="Question_Anathomy_1_answer4_ru"></string>
+    //Question_Anathomy_2
+    <string name="Question_Anathomy_2_ru"></string>
+    <string name="Question_Anathomy_2_answer1_ru"></string>
+    <string name="Question_Anathomy_2_answer2_ru"></string>
+    <string name="Question_Anathomy_2_answer3_ru"></string>
+    <string name="Question_Anathomy_2_answer4_ru"></string>
+    //Question_Anathomy_3
+    <string name="Question_Anathomy_3_ru"></string>
+    <string name="Question_Anathomy_3_answer1_ru"></string>
+    <string name="Question_Anathomy_3_answer2_ru"></string>
+    <string name="Question_Anathomy_3_answer3_ru"></string>
+    <string name="Question_Anathomy_3_answer4_ru"></string>
+    //Question_Anathomy_4
+    <string name="Question_Anathomy_4_ru"></string>
+    <string name="Question_Anathomy_4_answer1_ru"></string>
+    <string name="Question_Anathomy_4_answer2_ru"></string>
+    <string name="Question_Anathomy_4_answer3_ru"></string>
+    <string name="Question_Anathomy_4_answer4_ru"></string>
+    //Question_Anathomy_5
+    <string name="Question_Anathomy_5_ru"></string>
+    <string name="Question_Anathomy_5_answer1_ru"></string>
+    <string name="Question_Anathomy_5_answer2_ru"></string>
+    <string name="Question_Anathomy_5_answer3_ru"></string>
+    <string name="Question_Anathomy_5_answer4_ru"></string>
+
+
+
+
+    //_Theme
+    //Question__1
+    <string name="Question__1_ru"></string>
+    <string name="Question__1_answer1_ru"></string>
+    <string name="Question__1_answer2_ru"></string>
+    <string name="Question__1_answer3_ru"></string>
+    <string name="Question__1_answer4_ru"></string>
+    //Question__2
+    <string name="Question__2_ru"></string>
+    <string name="Question__2_answer1_ru"></string>
+    <string name="Question__2_answer2_ru"></string>
+    <string name="Question__2_answer3_ru"></string>
+    <string name="Question__2_answer4_ru"></string>
+    //Question__3
+    <string name="Question__3_ru"></string>
+    <string name="Question__3_answer1_ru"></string>
+    <string name="Question__3_answer2_ru"></string>
+    <string name="Question__3_answer3_ru"></string>
+    <string name="Question__3_answer4_ru"></string>
+    //Question__4
+    <string name="Question__4_ru"></string>
+    <string name="Question__4_answer1_ru"></string>
+    <string name="Question__4_answer2_ru"></string>
+    <string name="Question__4_answer3_ru"></string>
+    <string name="Question__4_answer4_ru"></string>
+    //Question__5
+    <string name="Question__5_ru"></string>
+    <string name="Question__5_answer1_ru"></string>
+    <string name="Question__5_answer2_ru"></string>
+    <string name="Question__5_answer3_ru"></string>
+    <string name="Question__5_answer4_ru"></string>
+
+
+
+
+
+
+
+    //Question1
+    <string name="Question_1_ru"></string>
+    <string name="Question_1_answer1_ru">Оксид кальция</string>
+    <string name="Question_1_answer2_ru">Мел</string>
+    <string name="Question_1_answer3_ru">Серная кислота</string>
+    <string name="Question_1_answer4_ru">Пластмасса</string>
+    //Question2
+    <string name="Question_2_ru">Кто написал знаменитый \n балет \'Щелкунчик\'?</string>
+    <string name="Question_2_answer1_ru">Бетховен</string>
+    <string name="Question_2_answer2_ru">Бах</string>
+    <string name="Question_2_answer3_ru">Чайковский</string>
+    <string name="Question_2_answer4_ru">Моцарт</string>
+    //Question3
+    <string name="Question_3_ru">Чему равно \n число Пи?</string>
+    <string name="Question_3_answer1_ru">3.24</string>
+    <string name="Question_3_answer2_ru">3.13</string>
+    <string name="Question_3_answer3_ru">3.15</string>
+    <string name="Question_3_answer4_ru">3.14</string>
+    //Question4
+    <string name="Question_4_ru">В какой системе счисления \n находится ASCII?</string>
+    <string name="Question_4_answer1_ru">BIN</string>
+    <string name="Question_4_answer2_ru">DEC</string>
+    <string name="Question_4_answer3_ru">HEX</string>
+    <string name="Question_4_answer4_ru">OCT</string>
+    //Question5
+    <string name="Question_5_ru">Чему равна \n температура Солнца?</string>
+    <string name="Question_5_answer1_ru">5700 C</string>
+    <string name="Question_5_answer2_ru">5300 C</string>
+    <string name="Question_5_answer3_ru">5500 C</string>
+    <string name="Question_5_answer4_ru">5100 C</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

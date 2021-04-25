@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/image" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="850dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/QuestionText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/Choose_Theme"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:id="@+id/ButtonTheme1"
+                android:layout_width="189dp"
+                android:layout_height="wrap_content"
+                android:text="@string/Space_Theme"
+                android:background="@drawable/button_background"
+                android:layout_margin="5dp"/>
+            <Button
+                android:id="@+id/ButtonTheme2"
+                android:layout_width="189dp"
+                android:layout_height="wrap_content"
+                android:text="@string/Water_Theme"
+                android:background="@drawable/button_background"
+                android:layout_margin="5dp"/>
+            <Button
+                android:id="@+id/ButtonTheme3"
+                android:layout_width="189dp"
+                android:layout_height="wrap_content"
+                android:text="@string/Animals_Theme"
+                android:background="@drawable/button_background"
+                android:layout_margin="5dp"/>
+            <Button
+                android:id="@+id/ButtonTheme4"
+                android:layout_width="189dp"
+                android:layout_height="wrap_content"
+                android:text="@string/Plants_Theme"
+                android:background="@drawable/button_background"
+                android:layout_margin="5dp"/>
+            <Button
+                android:id="@+id/ButtonTheme5"
+                android:layout_width="189dp"
+                android:layout_height="wrap_content"
+                android:text="@string/Programming_Theme"
+                android:background="@drawable/button_background"
+                android:layout_margin="5dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
